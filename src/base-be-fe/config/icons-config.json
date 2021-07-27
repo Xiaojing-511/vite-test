@@ -1,0 +1,276 @@
+[{ 
+  "name": "dmp-logo"
+}
+
+,{ 
+  "name": "m-add-account-bule"
+}
+
+,{ 
+  "name": "m-add-account"
+}
+
+,{ 
+  "name": "m-down-disable"
+}
+
+,{ 
+  "name": "m-down-hover"
+}
+
+,{ 
+  "name": "m-down"
+}
+
+,{ 
+  "name": "m-home"
+}
+
+,{ 
+  "name": "m-icon-account"
+}
+
+,{ 
+  "name": "m-icon-actmanage"
+}
+
+,{ 
+  "name": "m-icon-add-coupon"
+}
+
+,{ 
+  "name": "m-icon-add-hover"
+}
+
+,{ 
+  "name": "m-icon-add"
+}
+
+,{ 
+  "name": "m-icon-bigsale"
+}
+
+,{ 
+  "name": "m-icon-cgcz"
+}
+
+,{ 
+  "name": "m-icon-choose-good"
+}
+
+,{ 
+  "name": "m-icon-cz"
+}
+
+,{ 
+  "name": "m-icon-databorad"
+}
+
+,{ 
+  "name": "m-icon-dataCenter"
+}
+
+,{ 
+  "name": "m-icon-del-black"
+}
+
+,{ 
+  "name": "m-icon-del-full"
+}
+
+,{ 
+  "name": "m-icon-del"
+}
+
+,{ 
+  "name": "m-icon-delete"
+}
+
+,{ 
+  "name": "m-icon-developmanage"
+}
+
+,{ 
+  "name": "m-icon-down"
+}
+
+,{ 
+  "name": "m-icon-edit"
+}
+
+,{ 
+  "name": "m-icon-flpz"
+}
+
+,{ 
+  "name": "m-icon-help-hover"
+}
+
+,{ 
+  "name": "m-icon-help"
+}
+
+,{ 
+  "name": "m-icon-home"
+}
+
+,{ 
+  "name": "m-icon-jspz"
+}
+
+,{ 
+  "name": "m-icon-jygl"
+}
+
+,{ 
+  "name": "m-icon-kengwei"
+}
+
+,{ 
+  "name": "m-icon-kgpz"
+}
+
+,{ 
+  "name": "m-icon-left"
+}
+
+,{ 
+  "name": "m-icon-log"
+}
+
+,{ 
+  "name": "m-icon-logo"
+}
+
+,{ 
+  "name": "m-icon-merchandise"
+}
+
+,{ 
+  "name": "m-icon-merchant"
+}
+
+,{ 
+  "name": "m-icon-myshop"
+}
+
+,{ 
+  "name": "m-icon-new-blue"
+}
+
+,{ 
+  "name": "m-icon-new"
+}
+
+,{ 
+  "name": "m-icon-newtz"
+}
+
+,{ 
+  "name": "m-icon-often-use"
+}
+
+,{ 
+  "name": "m-icon-pjgl"
+}
+
+,{ 
+  "name": "m-icon-preview"
+}
+
+,{ 
+  "name": "m-icon-promotion-apply"
+}
+
+,{ 
+  "name": "m-icon-publish"
+}
+
+,{ 
+  "name": "m-icon-remove-hover"
+}
+
+,{ 
+  "name": "m-icon-remove"
+}
+
+,{ 
+  "name": "m-icon-right"
+}
+
+,{ 
+  "name": "m-icon-rolemanage"
+}
+
+,{ 
+  "name": "m-icon-rulemanage"
+}
+
+,{ 
+  "name": "m-icon-sale"
+}
+
+,{ 
+  "name": "m-icon-sspz"
+}
+
+,{ 
+  "name": "m-icon-tz"
+}
+
+,{ 
+  "name": "m-icon-up"
+}
+
+,{ 
+  "name": "m-icon-whitelabel"
+}
+
+,{ 
+  "name": "m-icon-xuanpin"
+}
+
+,{ 
+  "name": "m-icon-yxpz"
+}
+
+,{ 
+  "name": "m-icon-zypz"
+}
+
+,{ 
+  "name": "m-logo"
+}
+
+,{ 
+  "name": "m-michelin-logo"
+}
+
+,{ 
+  "name": "m-plus"
+}
+
+,{ 
+  "name": "m-search"
+}
+
+,{ 
+  "name": "m-up-disable"
+}
+
+,{ 
+  "name": "m-up-hover"
+}
+
+,{ 
+  "name": "m-up"
+}
+
+,{ 
+  "name": "m-youpin-logo"
+}
+
+,{ 
+  "name": "m-youpin"
+}
+]
