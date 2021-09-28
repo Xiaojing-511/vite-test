@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-07-26 16:36:26
- * @LastEditTime: 2021-07-27 14:29:31
+ * @LastEditTime: 2021-08-05 10:40:17
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /vite-test/vite.config.js
@@ -11,7 +11,6 @@ import vue from '@vitejs/plugin-vue'
 import Spritesmith from 'vite-plugin-spritesmith';
 const iconsTemp = require('./src/base-be-fe/config/customTemp');
 const jsonTemp = require('./src/base-be-fe/config/jsonArray');
-console.log('iconsTemp', iconsTemp, jsonTemp)
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue(),

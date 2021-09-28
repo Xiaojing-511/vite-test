@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
+    "dev:development": "vite serve --mode development",
     "build": "vite build",
     "serve": "vite preview"
   },
